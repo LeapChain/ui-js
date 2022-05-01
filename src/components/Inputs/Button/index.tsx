@@ -1,6 +1,6 @@
 import React, { HTMLAttributes, ReactNode, useEffect, useRef } from 'react';
 import clsx from 'clsx';
-import { bemify } from '@thenewboston/utils';
+import { bemify } from '@leapchain/utils';
 
 import '../../../styles/colors.css';
 import '../../../styles/font.css';

@@ -1,7 +1,7 @@
 import React, { FC, useMemo } from 'react';
 import clsx from 'clsx';
 import { Icon, IconType } from '../Icon';
-import { bemify } from '@thenewboston/utils';
+import { bemify } from '@leapchain/utils';
 
 import './Toast.scss';
 

@@ -1,5 +1,5 @@
 {
-  "version": "0.1.16",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -91,5 +91,12 @@
     "@leapchain/utils": "^1.0.0",
     "mdi-react": "^7.4.0",
     "qrcode": "^1.4.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeapChain/ui-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LeapChain/ui-js/issues"
   }
 }

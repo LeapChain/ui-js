@@ -6,7 +6,7 @@ import React, {
   useMemo,
 } from 'react';
 import clsx from 'clsx';
-import { bemify } from '@thenewboston/utils';
+import { bemify } from '@leapchain/utils';
 
 import AccountGroupIcon from 'mdi-react/AccountGroupIcon';
 import AlertCircleCheckOutlineIcon from 'mdi-react/AlertCircleCheckOutlineIcon';
